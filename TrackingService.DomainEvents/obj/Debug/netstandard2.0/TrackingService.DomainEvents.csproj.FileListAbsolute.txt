@@ -1,0 +1,8 @@
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.DomainEvents\bin\Debug\netstandard2.0\TrackingService.DomainEvents.deps.json
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.DomainEvents\bin\Debug\netstandard2.0\TrackingService.DomainEvents.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.DomainEvents\bin\Debug\netstandard2.0\TrackingService.DomainEvents.pdb
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.DomainEvents\obj\Debug\netstandard2.0\TrackingService.DomainEvents.csproj.CoreCompileInputs.cache
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.DomainEvents\obj\Debug\netstandard2.0\TrackingService.DomainEvents.AssemblyInfoInputs.cache
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.DomainEvents\obj\Debug\netstandard2.0\TrackingService.DomainEvents.AssemblyInfo.cs
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.DomainEvents\obj\Debug\netstandard2.0\TrackingService.DomainEvents.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.DomainEvents\obj\Debug\netstandard2.0\TrackingService.DomainEvents.pdb

@@ -1,0 +1,16 @@
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\bin\Debug\netstandard2.0\TrackingService.InterfaceAdapter.deps.json
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\bin\Debug\netstandard2.0\TrackingService.InterfaceAdapter.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\bin\Debug\netstandard2.0\TrackingService.InterfaceAdapter.pdb
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\bin\Debug\netstandard2.0\TrackingService.DomainEvents.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\bin\Debug\netstandard2.0\TrackingService.Infraestructure.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\bin\Debug\netstandard2.0\TrackingService.UseCase.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\bin\Debug\netstandard2.0\TrackingService.Infraestructure.pdb
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\bin\Debug\netstandard2.0\TrackingService.UseCase.pdb
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\bin\Debug\netstandard2.0\TrackingService.DomainEvents.pdb
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\obj\Debug\netstandard2.0\TrackingService.InterfaceAdapter.csprojAssemblyReference.cache
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\obj\Debug\netstandard2.0\TrackingService.InterfaceAdapter.csproj.CoreCompileInputs.cache
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\obj\Debug\netstandard2.0\TrackingService.InterfaceAdapter.AssemblyInfoInputs.cache
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\obj\Debug\netstandard2.0\TrackingService.InterfaceAdapter.AssemblyInfo.cs
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\obj\Debug\netstandard2.0\TrackingService.InterfaceAdapter.csproj.CopyComplete
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\obj\Debug\netstandard2.0\TrackingService.InterfaceAdapter.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Adapter\obj\Debug\netstandard2.0\TrackingService.InterfaceAdapter.pdb

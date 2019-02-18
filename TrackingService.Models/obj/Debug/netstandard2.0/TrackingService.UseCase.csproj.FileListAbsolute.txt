@@ -1,0 +1,14 @@
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\bin\Debug\netstandard2.0\TrackingService.UseCase.deps.json
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\bin\Debug\netstandard2.0\TrackingService.UseCase.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\bin\Debug\netstandard2.0\TrackingService.UseCase.pdb
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\bin\Debug\netstandard2.0\TrackingService.DomainEvents.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\bin\Debug\netstandard2.0\TrackingService.Infraestructure.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\bin\Debug\netstandard2.0\TrackingService.DomainEvents.pdb
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\bin\Debug\netstandard2.0\TrackingService.Infraestructure.pdb
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.UseCase.csprojAssemblyReference.cache
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.UseCase.csproj.CoreCompileInputs.cache
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.UseCase.AssemblyInfoInputs.cache
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.UseCase.AssemblyInfo.cs
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.UseCase.csproj.CopyComplete
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.UseCase.dll
+C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.UseCase.pdb
