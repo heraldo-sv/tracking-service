@@ -1,8 +1,0 @@
-C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\bin\Debug\netstandard2.0\TrackingService.Models.deps.json
-C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\bin\Debug\netstandard2.0\TrackingService.Models.dll
-C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\bin\Debug\netstandard2.0\TrackingService.Models.pdb
-C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.Models.csproj.CoreCompileInputs.cache
-C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.Models.AssemblyInfoInputs.cache
-C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.Models.AssemblyInfo.cs
-C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.Models.dll
-C:\Users\trervalle\Documents\Visual Studio 2017\Projects\Sources\TrackingService\TrackingService.Models\obj\Debug\netstandard2.0\TrackingService.Models.pdb
