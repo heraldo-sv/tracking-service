@@ -1,11 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TrackingService.Models.Interfaces
+﻿namespace TrackingService.Models.Interfaces
 {
     public interface IEventUseCase
     {
-        void Set(string eventID, string documentType, string documentNumber, string message);
+        void Set( string token
+                , string satelite
+                , string eventType
+                , string eventMessage
+                , string docType
+                , string docNum
+                , string office
+                , string agent);
     }
 }

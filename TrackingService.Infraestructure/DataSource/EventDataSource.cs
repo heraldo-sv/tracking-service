@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Text;
 using TrackingService.Infraestructure.DataSource.Config.Oracle.DbModel;
 using TrackingService.Infraestructure.DataSource.Interfaces;
 
@@ -11,13 +9,30 @@ namespace TrackingService.Infraestructure.DataSource
     {
         private EventEntity ev = new EventEntity();
         
-        public void Get(string eventID, string documentType, string documentNumber, string message)
+        public void Set( string token
+                       , string satelite
+                       , string eventType
+                       , string eventMessage
+                       , string docType
+                       , string docNum
+                       , string office
+                       , string agent)
         {
-            ev.EventID = eventID;
-            ev.DocumentType = documentType;
-            ev.DocumentNumber = documentNumber;
-            ev.CreatedAt = DateTime.Now;
-            ev.Message = message;
+            Random r = new Random();
+            
+            ev.Tracking = r.Next();
+            ev.Token = token;
+            ev.Satelite = satelite;
+            ev.Host = "BIOMETRÍA SERVICE";
+            ev.EventType = eventType;
+            ev.EventMessage = eventMessage;
+            ev.DocType = docType;
+            ev.DocNum = docNum;
+            ev.Office = office;
+            ev.Agent = agent;
+            ev.CreatedAt = DateTime.Parse(DateTime.Now.Date.ToString().Split(' ')[0]);
+            ev.Timestamp = DateTime.Now;
+
 
             try
             {
@@ -25,7 +40,7 @@ namespace TrackingService.Infraestructure.DataSource
                 StreamWriter sw = File.AppendText(AppDomain.CurrentDomain.BaseDirectory+"\\local.txt");
                 
                 //Write a line of text
-                sw.WriteLine($"{ev.EventID} | {ev.DocumentType} | {ev.DocumentNumber} | {ev.Message} | {ev.CreatedAt}");
+                sw.WriteLine($"{ev.Tracking} | {ev.Token} | {ev.Satelite} | {ev.Host} | {ev.EventType} | {ev.EventMessage} | {ev.DocType} | {ev.DocNum} | {ev.Office} | {ev.Agent} | {ev.CreatedAt} | {ev.Timestamp}");
 
                 //Close the file
                 sw.Close();

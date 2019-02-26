@@ -7,6 +7,13 @@ namespace TrackingService.Infraestructure.DataSource.Interfaces
 {
     public interface IEventDataSource
     {
-        void Get(string eventID, string DocumentType, string DocumentNumber, string message);
+        void Set( string token
+                , string satelite
+                , string eventType
+                , string eventMessage
+                , string docType
+                , string docNum
+                , string office
+                , string agent);
     }
 }

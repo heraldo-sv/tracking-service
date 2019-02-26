@@ -2,6 +2,13 @@
 {
     interface IEventRepository
     {
-        void Set(string eventID, string documentType, string documentNumber, string message);
+        void Set( string token
+                , string satelite
+                , string eventType
+                , string eventMessage
+                , string docType
+                , string docNum
+                , string office
+                , string agent);
     }
 }

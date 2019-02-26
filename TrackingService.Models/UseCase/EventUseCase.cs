@@ -7,9 +7,16 @@ namespace TrackingService.UseCase
     {
         private EventRepository _eventRepository = new EventRepository();
         
-        public void Set(string eventID, string tipoDocumento, string numeroDocumento, string mensaje)
+        public void Set( string token
+                       , string satelite
+                       , string eventType
+                       , string eventMessage
+                       , string docType
+                       , string docNum
+                       , string office
+                       , string agent)
         {
-            _eventRepository.Set(eventID, tipoDocumento, numeroDocumento, mensaje);
+            _eventRepository.Set(token,satelite,eventType,eventMessage,docType,docNum,office,agent);
         }
     }
 }

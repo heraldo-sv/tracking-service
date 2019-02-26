@@ -9,9 +9,16 @@ namespace TrackingService.InterfaceAdapter.Repositories
     {
         private EventDataSource _eventDataSource = new EventDataSource();
         
-        public void Set(string eventID, string documentType, string documentNumber, string message)
+        public void Set( string token
+                       , string satelite
+                       , string eventType
+                       , string eventMessage
+                       , string docType
+                       , string docNum
+                       , string office
+                       , string agent)
         {
-            _eventDataSource.Get(eventID, documentType, documentNumber, message);
+            _eventDataSource.Set(token,satelite,eventType,eventMessage,docType,docNum,office,agent);
         }
     }
 }
