@@ -1,2 +1,2 @@
-# TrackingService
-Event Sourcing project
+# Tracking service
+clean architecture and event sourcing CQRS
